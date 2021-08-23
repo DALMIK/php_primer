@@ -24,6 +24,6 @@ echo 'second line';
 
 <button type="button" class="btn btn-outline-danger">CLICK ME</button>
 <button type="button" class="btn btn-outline-success">CLICK ME HERE</button>
-<button type="button" class="btn btn-outline-warning">CLICK ME EVER</button>
+<button type="button" class="btn btn-primary">CLICK ME EVER</button>
 
 <?php require 'includes/footer.php' ?>
