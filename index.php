@@ -26,4 +26,6 @@ echo 'second line';
 <button type="button" class="btn btn-outline-success">CLICK ME HERE</button>
 <button type="button" class="btn btn-primary">CLICK ME EVER</button>
 
+<a class="btn btn-outline-success" target="_blank" href="https://www.heroku.com">Heroku.com</a>
+
 <?php require 'includes/footer.php' ?>
